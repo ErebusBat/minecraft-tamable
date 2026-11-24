@@ -1,0 +1,12 @@
+{
+	"schemaVersion": 1,
+	"id": "tameable-mooshrooms-test",
+	"version": "1.0.0",
+	"name": "Tameable Mooshrooms Game Tests",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-gametest": [
+			"net.erebusbat.tameablemooshrooms.gametest.MooshroomGameTest"
+		]
+	}
+}
